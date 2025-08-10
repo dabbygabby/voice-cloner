@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# OpenVoice runtime and models (download via scripts/setup_checkpoints.sh)
+OpenVoice/checkpoints_v2/
+OpenVoice/checkpoints/
+OpenVoice/openvoice/voice_database.db
+OpenVoice/openvoice/voices/
+OpenVoice/openvoice/audio_files/
