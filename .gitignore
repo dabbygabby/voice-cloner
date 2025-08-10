@@ -12,3 +12,4 @@ OpenVoice/checkpoints/
 OpenVoice/openvoice/voice_database.db
 OpenVoice/openvoice/voices/
 OpenVoice/openvoice/audio_files/
+Miniconda3-latest-MacOSX-arm64.sh
